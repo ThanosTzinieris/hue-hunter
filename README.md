@@ -59,6 +59,7 @@ python main.py
 
 ## Project Structure
 
+```
 .
 ├── main.py
 ├── utils.py
@@ -71,6 +72,7 @@ python main.py
 ├── gameover.png
 ├── tick.png
 └── RGB.ico
+```
 
 ---
 
