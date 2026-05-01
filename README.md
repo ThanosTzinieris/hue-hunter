@@ -20,6 +20,14 @@ You have up to 5 attempts to reach a score of at least 90%.
 
 ---
 
+## Quick Start
+
+```bash
+python main.py
+```
+
+---
+
 ## Features
 
 * Simple and intuitive GUI using Tkinter
