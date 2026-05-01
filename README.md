@@ -58,11 +58,19 @@ python main.py
 ---
 
 ## Project Structure
+
 .
 ├── main.py
 ├── utils.py
 ├── screenshots/
-└── assets (images & icons)
+│   ├── start.jpg
+│   ├── gameplay.jpg
+│   └── result.jpg
+├── cheat.png
+├── matchy.png
+├── gameover.png
+├── tick.png
+└── RGB.ico
 
 ---
 
