@@ -57,6 +57,15 @@ python main.py
 
 ---
 
+## Project Structure
+.
+├── main.py
+├── utils.py
+├── screenshots/
+└── assets (images & icons)
+
+---
+
 ## Notes
 
 This project was developed as part of a Python course assignment focused on GUI development and event-driven programming.
