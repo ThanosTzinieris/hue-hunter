@@ -99,3 +99,8 @@ This project was developed as part of a Python course assignment focused on GUI 
 
 ### Result
 ![Result](screenshots/result.jpg)
+
+
+---
+
+*Thanks for checking out this project!*
