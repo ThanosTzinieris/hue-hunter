@@ -52,7 +52,7 @@ Make sure you have Python installed.
 Then run:
 
 ```
-python Hue_Hunter.py
+python main.py
 ```
 
 ---
